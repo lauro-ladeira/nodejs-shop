@@ -1,8 +1,8 @@
-const Sequelize = require("sequelize");
+const Sequelize = require('sequelize');
 
-const sequelize = require("../util/database"); // ambiente de desenvolvimento sequelize, tem a conexao com nossa pool + features seq
+const sequelize = require('../util/database');
 
-const User = sequelize.define("user", {
+const User = sequelize.define('user', {
   id: {
     type: Sequelize.INTEGER,
     autoIncrement: true,
@@ -13,4 +13,4 @@ const User = sequelize.define("user", {
   email: Sequelize.STRING
 });
 
-module.exports = User
+module.exports = User;

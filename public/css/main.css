@@ -19,16 +19,16 @@ form {
   display: inline;
 }
 
+.centered {
+  text-align: center;
+}
+
 .image {
   height: 20rem;
 }
 
 .image img {
   height: 100%;
-}
-
-.centered {
-  text-align: center;
 }
 
 .main-header {
