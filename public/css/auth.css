@@ -1,0 +1,11 @@
+.login-form {
+  width: 20rem;
+  max-width: 90%;
+  margin: auto;
+  display: block;
+  
+}
+
+.login-form input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 30px white inset;
+}
