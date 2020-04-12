@@ -180,6 +180,10 @@ form {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
 }
 
+.card__content {
+  height: 130px;
+}
+
 .card__header,
 .card__content {
   padding: 1rem;
