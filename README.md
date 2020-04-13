@@ -1,31 +1,30 @@
 # Node.js Starter Store
 > Aplicação que apresenta um website de e-commerce usando Node.js, Express e MongoDB.
 
-## Table of contents
 <p align="center">
   <a href="#general-info">General info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#live-demo">Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#setup">Setup</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contato">Contato/a>
+  <a href="#contato">Contato</a>
 </p>
 
 
-## General info
+## :computer: Projeto
 O objetivo desse projeto é aprimorar meus conhecimentos em Node.js. Criou-se então uma aplicação tradicional em que as views são renderizadas dinamicamente no lado do servidor e aplicou-se o padrão de projeto MVC. Foi feita a integração com o banco de dados MongoDB, e através do Mongoose os dados da aplicação foram modelados. Trabalhou-se com sessions e cookies para fazer o cadastro e a autenticação do usuário.
 
 
-## Live Demo
+## :high_brightness: Live Demo
 Essa aplicação pode ser acessada em: https://nodejs-starter-store.herokuapp.com/
 
-## Tecnologias utilizadas
+## :bulb: Tecnologias utilizadas
 * Node.js
 * Express
 * MongoDB
 
 
-## Features
+## :memo: Features
 
 * Cadastro e autenticação do usuário com login e senha
 * Design responsivo para mobile
@@ -40,10 +39,10 @@ Essa aplicação pode ser acessada em: https://nodejs-starter-store.herokuapp.co
 A aplicação carrega dados de produtos de uma database MongoDB e os exibe através de páginas geradas dinamicamente. De modo a simular o gerenciamento da loja, ao se cadastrar o usuário recebe a permissão de administrador do e-commerce, podendo criar produtos novos, editá-los e removê-los. Usuários também podem adicionar produtos ao carrinho de compras e fazer o checkout do pedido.
 
 
-## Setup
+## :wrench: Setup
 Describe how to install / setup your local environement / add link to demo version.
 
-## Contact
+## :telephone_receiver: Contato
 Lauro Ladeira é um desenvolvedor front-end residente em Belo Horizonte, MG. Links para contato:
 
 * lauro.floresta@gmail.com
