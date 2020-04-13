@@ -2,11 +2,10 @@
 > Aplicação que apresenta um website de e-commerce usando Node.js, Express e MongoDB.
 
 <p align="center">
-  <a href="#general-info">General info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#general-info">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#live-demo">Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#setup">Setup</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contato">Contato</a>
 </p>
 
@@ -38,9 +37,6 @@ Essa aplicação pode ser acessada em: https://nodejs-starter-store.herokuapp.co
 
 A aplicação carrega dados de produtos de uma database MongoDB e os exibe através de páginas geradas dinamicamente. De modo a simular o gerenciamento da loja, ao se cadastrar o usuário recebe a permissão de administrador do e-commerce, podendo criar produtos novos, editá-los e removê-los. Usuários também podem adicionar produtos ao carrinho de compras e fazer o checkout do pedido.
 
-
-## :wrench: Setup
-Describe how to install / setup your local environement / add link to demo version.
 
 ## :telephone_receiver: Contato
 Lauro Ladeira é um desenvolvedor front-end residente em Belo Horizonte, MG. Links para contato:
