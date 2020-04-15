@@ -15,7 +15,7 @@ O objetivo desse projeto é aprimorar meus conhecimentos em Node.js. Criou-se en
 
 
 ## :high_brightness: Live Demo
-Essa aplicação pode ser acessada em: https://nodejs-starter-store.herokuapp.com/
+Essa aplicação pode ser acessada em: https://nodejs-starter-ecommerce.herokuapp.com/ (pode demorar alguns segundos para carregar)
 
 ## :bulb: Tecnologias utilizadas
 * Node.js
