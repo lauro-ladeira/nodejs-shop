@@ -43,3 +43,11 @@ Lauro Ladeira é um desenvolvedor front-end residente em Belo Horizonte, MG. Lin
 
 * lauro.floresta@gmail.com
 * [linkedin.com/lauro-ladeira](https://www.linkedin.com/in/lauro-ladeira/)
+
+
+
+sim, é desgastante demais mesmo. parece que a paciência de todo mundo fica esgostada.
+uma coisinha boba que acontece vai crescendo igual uma bola de neve
+
+domingo aqui já deu merda de novo com meu pai. rola uma treta e depois eu me excluo completamente, 
+fico só no quarto sem querer ver a cara de ninguém e isso vai me deixando cada vez pior
