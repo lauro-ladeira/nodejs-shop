@@ -1,4 +1,4 @@
-# Node.js Starter Store
+# Node.js Starter E-commerce
 > Aplicação que apresenta um website de e-commerce usando Node.js, Express e MongoDB.
 
 <p align="center">
@@ -15,7 +15,7 @@ O objetivo desse projeto é aprimorar meus conhecimentos em Node.js. Criou-se en
 
 
 ## :high_brightness: Live Demo
-Essa aplicação pode ser acessada em: https://nodejs-starter-store.herokuapp.com/
+Essa aplicação pode ser acessada em: https://nodejs-starter-ecommerce.herokuapp.com/
 
 ## :bulb: Tecnologias utilizadas
 * Node.js
