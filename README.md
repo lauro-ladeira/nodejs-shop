@@ -1,4 +1,4 @@
-# Node.js Starter Store
+# Node.js Starter E-commerce
 > Aplicação que apresenta um website de e-commerce usando Node.js, Express e MongoDB.
 
 <p align="center">
