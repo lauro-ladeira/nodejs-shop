@@ -6,7 +6,7 @@
   <a href="#live-demo">Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#:telephone_receiver:">Contato</a>
+  <a href="#contato">Contato</a>
 </p>
 
 
@@ -23,7 +23,7 @@ Essa aplicação pode ser acessada em: https://nodejs-starter-ecommerce.herokuap
 * MongoDB
 
 
-## :memo: Features
+## :memo: ##Features
 
 * Cadastro e autenticação do usuário com login e senha
 * Design responsivo para mobile
