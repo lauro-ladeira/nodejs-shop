@@ -23,7 +23,7 @@ Essa aplicação pode ser acessada em: https://nodejs-starter-ecommerce.herokuap
 * MongoDB
 
 
-## :memo: ##Features
+## :memo: Features
 
 * Cadastro e autenticação do usuário com login e senha
 * Design responsivo para mobile
