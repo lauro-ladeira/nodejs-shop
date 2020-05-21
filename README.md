@@ -6,7 +6,7 @@
   <a href="#live-demo">Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contato">Contato</a>
+  <a href="#:telephone_receiver: Contato">Contato</a>
 </p>
 
 
@@ -38,7 +38,7 @@ Essa aplicação pode ser acessada em: https://nodejs-starter-ecommerce.herokuap
 A aplicação carrega dados de produtos de uma database MongoDB e os exibe através de páginas geradas dinamicamente. De modo a simular o gerenciamento da loja, ao se cadastrar o usuário recebe a permissão de administrador do e-commerce, podendo criar produtos novos, editá-los e removê-los. Usuários também podem adicionar produtos ao carrinho de compras e fazer o checkout do pedido.
 
 
-## Contato
+## :telephone_receiver: Contato
 Lauro Ladeira é um desenvolvedor front-end residente em Belo Horizonte, MG. Links para contato:
 
 * lauro.floresta@gmail.com
